@@ -37,3 +37,7 @@ conda env create -f environment.yml
 conda activate keras_gunicorn_nginx_flask
 python main.py
 ```
+
+
+Demo:<br/>
+![image](https://github.com/sralex/face_segmentation/blob/master/demo.png)
